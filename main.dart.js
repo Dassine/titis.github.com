@@ -87072,7 +87072,8 @@ e.h(o,"description_"+f)
 k=e.h(o,"content_"+f)
 if(n!=null){j=J.ab(n)
 j=new A.a4Z(j.h(n,"name"),j.h(n,"description"),j.h(n,"picture_url"))}else j=null
-if(e.h(o,"affiliate_links")!=null&&t.j.b(e.h(o,"affiliate_links"))){i=J.eS(t.j.a(e.h(o,"affiliate_links")),new A.aec(),t.GU)
+i="affiliate_links_"+f
+if(e.h(o,i)!=null&&t.j.b(e.h(o,i))){i=J.eS(t.j.a(e.h(o,i)),new A.aec(),t.GU)
 i=A.aj(i,!0,A.l(i).i("aY.E"))}else i=null
 h=e.h(o,"seo_description_"+f)
 q=new A.QK(m,l,k,j,i,e.h(o,"seo_keywords_"+f),h,null)
