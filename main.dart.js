@@ -31042,7 +31042,7 @@ var $async$aaU=A.J(function(a,b){if(a===1)return A.F(b,r)
 while(true)switch(s){case 0:s=2
 return A.D(A.aix(A.b33()),$async$aaU)
 case 2:s=3
-return A.D($.aOG().E5(0,".env"),$async$aaU)
+return A.D($.aOG().E5(0,"dotenv"),$async$aaU)
 case 3:if($.aE==null)A.aTQ()
 q=$.aE
 q.toString
