@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!-- Google Analytics-->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-PGRHQYX7X7"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'G-PGRHQYX7X7');
+    </script>
     <!--
     If you are serving your web app in a path other than the root, change the
     href value below to reflect the base path you are serving from.
@@ -14,6 +28,7 @@
     This is a placeholder for base href that will be replaced by the value of
     the `--base-href` argument provided to `flutter build`.
   -->
+
     <base href="/" />
 
     <meta charset="UTF-8" />
@@ -34,7 +49,7 @@
 
     <script>
       // The value below is injected by flutter build, do not touch.
-      const serviceWorkerVersion = "1010483467";
+      const serviceWorkerVersion = "906689479";
     </script>
     <!-- This script adds the flutter initialization JS code -->
     <script src="flutter.js" defer></script>
