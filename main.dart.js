@@ -105486,7 +105486,7 @@ A.acQ.prototype={}
 A.Ml.prototype={
 M(a){var s,r=null,q=t.E
 A.q1(A.aZ(a,B.t,q).gn3())
-this.c.fY("page_view",A.a8(["page_name","AboutPage"],t.N,t.z))
+this.c.fY("page_view",A.a8(["page_title","AboutPage"],t.N,t.z))
 s=t.p
 return A.xd(B.a36,B.j,new A.mY(A.aZ(a,B.t,q).gBE(),A.aZ(a,B.t,q).gvT(),A.aZ(a,B.t,q).gvT(),r,A.n7(B.dW,A.a([A.tv(A.bo(r,A.dQ(A.a([new A.c9(B.a5,r,r,A.bo(r,A.dQ(A.a([new A.c9(B.V,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBJ(),r,r,r,r,$.um(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBD(),r,r,r,r,$.q5(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBF(),r,r,r,r,$.zO(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBx(),r,r,r,r,$.q5(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBG(),r,r,r,r,$.zO(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBy(),r,r,r,r,$.q5(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBH(),r,r,r,r,$.zO(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBz(),r,r,r,r,$.q5(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBI(),r,r,r,r,$.zO(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBA(),r,r,r,r,$.q5(),r,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBB(),r,r,r,r,$.q5(),B.dc,r),B.k,r,r,r,r,B.b8,r,r),r),new A.c9(B.a5,r,r,A.bo(r,A.bV(A.aZ(a,B.t,q).gBC(),r,r,r,r,$.q5(),B.dc,r),B.k,r,r,r,r,B.b8,r,r),r)],s),B.a1,B.R,B.a9),B.k,r,r,r,r,B.hD,r,r),r),B.c4,B.dp],s),B.a1,B.R,B.a9),B.k,r,r,r,r,B.e8,B.f0,r),r,r,B.aS)],s),B.a8,B.cC),r),!0,B.a5f,r)}}
 A.Ng.prototype={
@@ -105496,7 +105496,7 @@ r=A.BX(new A.e4(q))
 s=new A.Nf(A.IR(r,r.ghG().lC("blog_articles")))
 r=t.E
 A.q1(A.aZ(a,B.t,r).gn3())
-this.c.fY("page_view",A.a8(["page_name","BlogPage"],t.N,t.z))
+this.c.fY("page_view",A.a8(["page_title","BlogPage"],t.N,t.z))
 return A.xd(B.ml,B.j,new A.mY(A.aZ(a,B.t,r).gCb(),A.aZ(a,B.t,r).gw7(),A.aZ(a,B.t,r).gw7(),null,A.ajS(new A.acW(this,s),s.x4(),t.pT),null),!0,B.mO,null)}}
 A.acW.prototype={
 $2(a,b){var s,r,q=null
@@ -105553,7 +105553,7 @@ return A.C(null,r)}})
 return A.D($async$DD,r)},
 rz(a){this.aG(new A.adZ(this,a))},
 M(a){var s,r=this,q=A.aLQ(a,!0,t.a2),p=r.a,o=q.a2v(p.d,p.c)
-r.a.f.fY("page_view",A.a8(["page_name","ChatPage"],t.N,t.z))
+r.a.f.fY("page_view",A.a8(["page_title","ChatPage"],t.N,t.z))
 p=A.ai4(r.ake(J.ai(o,"messages")))
 s=$.abn()
 r.a.toString
@@ -105719,14 +105719,14 @@ if(s!=null)s.qn(this.a)},
 $S:0}
 A.O8.prototype={
 M(a){var s=this.c
-s.fY("page_view",A.a8(["page_name","ContactPage"],t.N,t.z))
+s.fY("page_view",A.a8(["page_title","ContactPage"],t.N,t.z))
 return A.xd(B.a38,null,new A.AV(s,null),!0,B.a5h,null)}}
 A.AV.prototype={
 aE(){return new A.a1P(new A.bH(null,t.am),B.l)}}
 A.a1P.prototype={
 M(a){var s,r,q=null,p=t.E
 A.q1(A.aZ(a,B.t,p).gn3())
-this.a.c.fY("page_view",A.a8(["page_name","ContactPage"],t.N,t.z))
+this.a.c.fY("page_view",A.a8(["page_title","ContactPage"],t.N,t.z))
 s=A.aZ(a,B.t,p).gCr()
 r=A.aZ(a,B.t,p).gCq()
 p=A.aZ(a,B.t,p).gCp()
@@ -105777,7 +105777,7 @@ $S:0}
 A.S4.prototype={
 M(a){var s,r,q,p,o,n,m,l=null,k=t.E
 A.q1(A.aZ(a,B.t,k).gn3())
-this.c.fY("page_view",A.a8(["page_name","HomePage"],t.N,t.z))
+this.c.fY("page_view",A.a8(["page_title","HomePage"],t.N,t.z))
 s=A.aZ(a,B.t,k).gDB()
 r=A.aZ(a,B.t,k).gDA()
 q=A.aZ(a,B.t,k).gDz()
@@ -105817,7 +105817,7 @@ A.WB.prototype={
 M(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=t.E
 A.q1(A.aZ(a,B.t,h).gn3())
 s=j.c
-j.z.fY("page_view",A.a8(["page_name","PostPage","title",s==null?"Unknown":s],t.N,t.z))
+j.z.fY("page_view",A.a8(["page_title","PostPage","title",s==null?"Unknown":s],t.N,t.z))
 r=j.x
 q=r.a
 p=j.w
