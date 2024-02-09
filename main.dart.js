@@ -105820,11 +105820,11 @@ q=A.aQ(a,B.t,j).gDz()
 p=A.aQ(a,B.t,j).giN()
 o=A.aQ(a,B.t,j).gE7()
 n=A.aQ(a,B.t,j).gE6()
-o=A.aLq(new A.ala(this,a),A.aQ(a,B.t,j).gE5(),n,"assets/images/market_research.jpg",!0,o)
+o=A.aLq(new A.ala(this,a),A.aQ(a,B.t,j).gE5(),n,"assets/images/market_research.WebP",!0,o)
 n=A.aQ(a,B.t,j).gEj()
 m=A.aQ(a,B.t,j).gEi()
 l=t.p
-return A.xd(B.a3b,B.j,A.XE(k,A.n6(B.dW,A.a([A.tv(A.bo(k,A.dQ(A.a([o,B.c4,A.aLq(new A.alb(this,a),A.aQ(a,B.t,j).gEh(),m,"assets/images/newsletter2.jpg",!0,n),B.c4,B.dp],l),B.a1,B.R,B.a9),B.k,k,k,k,k,B.e8,k,k),k,k,B.aS)],l),B.a8,B.cC),r,q,p,s),!0,B.a5k,k)}}
+return A.xd(B.a3b,B.j,A.XE(k,A.n6(B.dW,A.a([A.tv(A.bo(k,A.dQ(A.a([o,B.c4,A.aLq(new A.alb(this,a),A.aQ(a,B.t,j).gEh(),m,"assets/images/newsletter2.WebP",!0,n),B.c4,B.dp],l),B.a1,B.R,B.a9),B.k,k,k,k,k,B.e8,k,k),k,k,B.aS)],l),B.a8,B.cC),r,q,p,s),!0,B.a5k,k)}}
 A.ala.prototype={
 $0(){var s=0,r=A.E(t.H),q=this,p
 var $async$$0=A.F(function(a,b){if(a===1)return A.B(b,r)
