@@ -109368,19 +109368,19 @@ o=n==="contact".toLowerCase()?$.Ay():$.Aw()
 return new A.RX(A.aW5(A.a([m,s,r,A.Uj(!1,q,q,q,!0,q,!1,q,q,new A.axl(a),!1,q,q,q,q,q,p,o,q,q)],t.p),B.Oz,q,!1),q)}}
 A.axi.prototype={
 $0(){var s=t.X
-A.WU(this.a,"home",s,s)},
+A.WU(this.a,"/home",s,s)},
 $S:0}
 A.axj.prototype={
 $0(){var s=t.X
-A.WU(this.a,"blog",s,s)},
+A.WU(this.a,"/blog",s,s)},
 $S:0}
 A.axk.prototype={
 $0(){var s=t.X
-A.WU(this.a,"about",s,s)},
+A.WU(this.a,"/about",s,s)},
 $S:0}
 A.axl.prototype={
 $0(){var s=t.X
-A.WU(this.a,"contact",s,s)},
+A.WU(this.a,"/contact",s,s)},
 $S:0}
 A.adJ.prototype={
 hh(a,b){return this.a4Y(a,b)},
