@@ -5,8 +5,18 @@
     <title>Page Not Found</title>
     <script>
       // Redirect to index.html while preserving the path
-      var path = location.pathname;
-      window.location.replace('/#' + path);
+      // var path = location.pathname;
+      // window.location.replace('/#' + path);
+      window.onload = () => {
+        // Check if there is a path in the URL
+        const pathname = window.location.pathname;
+        if (pathname && pathname !== '/' && pathname !== '/index.html') {
+          // Redirect to index.html with the path
+          window.location.replace(
+            '/index.html' + pathname + window.location.search
+          );
+        }
+      };
     </script>
   </head>
   <body>
